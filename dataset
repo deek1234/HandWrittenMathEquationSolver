@@ -1,0 +1,8 @@
+Dataset Information:
+The dataset used in this notebook is sourced from Kaggle. Before running the notebook, please ensure you have downloaded the required dataset from Kaggle and placed it in the appropriate directory. 
+
+To use the Kaggle dataset:
+1. Sign up for a Kaggle account if you haven't already (https://www.kaggle.com/).
+2. Find and download the Handwritten math symbols dataset by XAI NANO from Kaggle.
+3. Place the downloaded dataset in a directory accessible to the notebook.
+4. Update the file path in the notebook to point to your local copy of the dataset.
